@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-571r23.yoursingles.online/sitemap.xml
